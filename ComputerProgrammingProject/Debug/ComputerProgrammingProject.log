@@ -1,0 +1,22 @@
+﻿  ComputerProgrammingProject.cpp
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(63,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(67,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(73,9): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(74,9): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(158,84): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(158,65): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(158,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(164,76): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(164,61): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(164,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(205,70): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(208,70): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(211,70): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(214,70): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(241,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(241,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(250,13): warning C4244: '인수': 'float'에서 'TimerID'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(261,13): warning C4244: '인수': 'float'에서 'TimerID'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(359,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Administrator\source\repos\ComputerProgrammingProject\ComputerProgrammingProject\ComputerProgrammingProject.cpp(359,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ComputerProgrammingProject.vcxproj -> C:\Users\Administrator\source\repos\ComputerProgrammingProject\Debug\ComputerProgrammingProject.exe
