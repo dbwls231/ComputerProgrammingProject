@@ -1,2 +1,2 @@
 # ComputerProgrammingProject
- 기컴프 개인과제
+# 기초컴퓨터프로그래밍 개인과제
